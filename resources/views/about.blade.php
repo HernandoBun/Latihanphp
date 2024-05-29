@@ -10,5 +10,6 @@
     <h1> Halaman ini tempat saya belajar Laravel</h1>
     <p> Laravel itu sangat menyulitkan tapi tidak apa"</p>
     <p>Haloo her</p>
+    <p>halo mar</p>
 </body>
 </html>
