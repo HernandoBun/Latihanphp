@@ -11,6 +11,5 @@
     <p> Laravel itu sangat menyulitkan tapi tidak apa"</p>
     <p>Haloo her</p>
     <p>halo mar</p>
-    <p> halloo mar dan her gw der </p>
 </body>
 </html>
